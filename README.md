@@ -25,5 +25,7 @@ Notes:
 4. The second sheet in the excel has information about Customer (e.g. Name, Country, Gender, Products, etc)
 5. Make the SKIP column as blank for the row whose data needs to be used for the test
 6. Adding 'x' and any value (even space) in the SKIP column means that the script will skip that row and read another row
+7. The test reports can be found at the location: \\sx-abbott-mobile-auto-uday\test-output\testReporttest.html
+8. Screen shots of the test are also captured at the location: \\sx-abbott-mobile-auto-uday\test-output\Screenshots
 
 
