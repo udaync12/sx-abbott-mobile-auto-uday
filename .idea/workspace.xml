@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62bd71f6-e5db-4472-b2ee-affb191f1056" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/gsAddProductsToCart.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Screenshots/gsAddProductsToCart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/gsEnterHomePageDetails.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Screenshots/gsEnterHomePageDetails.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/gsSearchWebsite.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Screenshots/gsSearchWebsite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/gsValidateCartItems.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Screenshots/gsValidateCartItems.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/validateAppLaunch.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Screenshots/validateAppLaunch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testReporttest.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testReporttest.html" afterDir="false" />
-    </list>
+    <list default="true" id="62bd71f6-e5db-4472-b2ee-affb191f1056" name="Changes" comment="Updated README.md file with details and instruction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated README.md file with details and instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md file with details and instruction" />
   </component>
 </project>
